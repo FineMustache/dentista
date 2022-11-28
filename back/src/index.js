@@ -9,5 +9,5 @@ app.use(cors());
 app.use(itens);
 
 app.listen(5000, () => {
-    console.log("Azimdabaraguai");
+    console.log("Ouvindo porta 5000");
 });
